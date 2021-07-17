@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GA2J2UIOORZFQ77NSBMEEWXLPW7OCC24MW2QIGIZJNVUAFWNLVOSHQCF"
+"GA557OSTRPOUUTXKPQWHUZN4LRS46SBWTNTYRPFZRF3IBUDT3IK6UJQJ"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Cryptocurrency"
-ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="TRON is a Blockchain with a cryptocurrency native to the system, known as TRX. Justin Sun founded the cryptocurrency in 2017."
-ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/X3zWgxL/tronchain.png"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+ORG_NAME="IXINIUM"
+ORG_URL="https://www.IXINIUM.org"
+ORG_DESCRIPTION="Ixinium XXA is a digital token native to Stellar blockchain. Ixinium XXA is backed with gold, silver, palladium, and platinum. Cryptocurrency XXA is backed by the Ixinium Foundation's precious metal holdings, blockchain transparency, and auditable transactions. "
+ORG_TWITTER="@IXINIUM"
+ORG_LOGO="https://i.ibb.co/kyfV76S/ixinium.jpg"
+ORG_OFFICIAL_EMAIL="IXXINIUM@gmail.com"
 
 
 [[CURRENCIES]]
-code="TronChain"
-issuer="GA2J2UIOORZFQ77NSBMEEWXLPW7OCC24MW2QIGIZJNVUAFWNLVOSHQCF"
+code="IxiniumCash"
+issuer="GA557OSTRPOUUTXKPQWHUZN4LRS46SBWTNTYRPFZRF3IBUDT3IK6UJQJ"
 anchor_asset="false"
-name="TronChain"
-desc="TRON is a Blockchain with a cryptocurrency native to the system, known as TRX. Justin Sun founded the cryptocurrency in 2017."
-image="https://i.ibb.co/X3zWgxL/tronchain.png"
-fixed_number=10000000
-max_number=10000000
+name="IxiniumCash"
+desc="Ixinium XXA is a digital token native to Stellar blockchain. Ixinium XXA is backed with gold, silver, palladium, and platinum. Cryptocurrency XXA is backed by the Ixinium Foundation's precious metal holdings, blockchain transparency, and auditable transactions. "
+image="https://i.ibb.co/kyfV76S/ixinium.jpg"
+fixed_number=1000000000
+max_number=1000000000
 is_unlimited=false
-#TronChain was issued using the open and inclusive Stellar blockchain network.
+#IxiniumCash was issued using the open and inclusive Stellar blockchain network.
